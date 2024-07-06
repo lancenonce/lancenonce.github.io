@@ -1,3 +1,4 @@
+[1and0](_posts/media/photo.jpg)
 ## You're in the mind of a builder ⚒️⚡️🔥🌊💨💫
 I have a deep inner sense of justice. I like to think and write about technologies and mental structures that can be used to free people. To free people from the clutches of *corrupt* governments, economic structures, religions, and other mind-altering systems. The non-corrupt ones are okay :)
 
