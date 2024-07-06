@@ -43,3 +43,20 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+body {
+  background-color: #191970; 
+  color: #ffffff; 
+}
+
+a {
+  color: #1e90ff; 
+}
+
+.post-title, .page-title {
+  color: #ffffff; 
+}
+
+.post-content, .page-content {
+  color: #dcdcdc; 
+}
