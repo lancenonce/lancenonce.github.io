@@ -14,7 +14,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: #998;
+  color: #dcdcdc;
   font-style: italic;
 }
 
@@ -78,7 +78,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 }
 
 .hljs-meta {
-  color: #999;
+  color: #dcdcdc;
   font-weight: bold;
 }
 
