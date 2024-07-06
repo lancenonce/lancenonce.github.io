@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+I have a deep inner sense of justice. I like to think and write about technologies that can be used to free people. To free people from the clutches of *corrupt* governments, economic structures, religions, and other mind-altering systems. 
 
-Maybe say a some things about yourself.
+For quite a while, I put a filter on my deepest opinions and ideas. However, I'm a man now, so sit back, relax, and explore the ideas I post here.
 
-Or maybe what you plan to blog about.
+Before taking anything personally, I urge you to talk to me. Click on my social media profiles and send me a message. I will respond over time. 
