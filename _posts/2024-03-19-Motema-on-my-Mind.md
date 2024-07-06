@@ -1,14 +1,4 @@
----
-title: Motema on my Mind
-date: "2024-03-19T10:20:38.121Z"
-template: "post"
-draft: false
-slug: "/posts/motema"
-category: "ethics"
-tags:
 
-description: "I describe a project called Motema that was completed for ETH Oxford and ETH London. I explore the reason why the project came into being and future steps."
----
 ![cobalt heart](media/motema.png)
 
 # Motema on My Mind

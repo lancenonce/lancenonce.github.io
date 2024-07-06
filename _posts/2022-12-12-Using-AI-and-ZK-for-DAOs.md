@@ -1,15 +1,4 @@
----
-title: Using AI and ZK for DAOs
-date: "2023-01-19T10:20:38.121Z"
-template: "post"
-draft: false
-slug: "/posts/ai-zk-dao"
-category: "DAOs"
-tags:
 
-description: "In this article, we explore how AI and zk in web3 can be used to enhance the experience of participating in a decentralized ecosystem. I believe individuality and self actualization is the aim of these democratic systems; AI can help us automate while zk helps us remain private (to an extent). People can use DAOs to find their true niche and contribute in a way that maintains their autonomy."
-socialImage: "./media/notebook.jpg"
----
 ##### This article is in response to a Smart Contract Research Forum podcast on Culture and Incentivization. Link is here: https://www.smartcontractresearch.org/t/scrf-interviews-culture-and-incentivization-ellie-rennie-and-zach-anderson-ep-3/1249?u=lndavis6
 
 Thank you, Ellie and Zach, for such an insightful episode. I’ve interacted with SourceCred and Coordinape and think both platforms point decentralized organizations in the right direction. It was interesting to hear Zach’s first-hand experiences with compensation and equitable pay in DAOs and the questions that arise from them. I’m excited about DAOs addressing gender and racial pay gaps; merit-based pay hasn’t been done well yet. 

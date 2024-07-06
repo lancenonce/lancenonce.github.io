@@ -1,15 +1,4 @@
----
-title: Thoughts on Complex System Design
-date: "2022-12-05T10:20:38.121Z"
-template: "post"
-draft: false
-slug: "/posts/thoughts-on-complex-sys-design"
-category: "Mechanism Design"
-tags:
-  - "Complex System Design"
-description: "In this piece, I respond to an interview with Jamsheed Shorish and Michael Zargham on complex system design. I expound on the examples in the post and reflect on how we can use complex system design to build better protocols for web3. By 'better' I mean more fit for upgrades and governance."
-socialImage: "./media/notebook.jpg"
----
+
 ##### This article is in response to a Smart Contract Research Forum podcast on complex system design. Link is here: https://www.smartcontractresearch.org/t/scrf-interviews-formal-methods-in-complex-system-design-jamsheed-shorish-and-michael-zargham-ep-16/2482
 
 This was an insightful post on formal methods in complex system design. The “inward-looking” and “outward-looking” analogy helped me understand validation and verification more. Proper validation can have spill-over benefits like customer satisfaction metrics and easier marketing. The article does well in emphasizing how important mechanism design is in validation.

@@ -1,14 +1,4 @@
----
-title: Ethics of On-Chain AI
-date: "2023-11-26T10:20:38.121Z"
-template: "post"
-draft: false
-slug: "/posts/ethics-zkml"
-category: "zkml"
-tags:
 
-description: "I reflect on worst case scenarios with AI on blockchains"
----
 ### The Ethics of On-Chain AI
 
 *This post was written for the Devconnect Scholars program. I want to extend my most sincere gratitude for being selected and to explore the ethics of on-chain AI.*

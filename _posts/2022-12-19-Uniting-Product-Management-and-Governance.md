@@ -1,15 +1,4 @@
----
-title: Combining Product Management and Governance
-date: "2022-12-19T10:20:38.121Z"
-template: "post"
-draft: false
-slug: "/posts/combining-product-management-and-governance"
-category: "DAOs"
-tags:
-  - "Computer Aided Governance"
-description: "This is a response to an explanation of computer-aided governance and how it is used in DAOs. I expand on ideas regarding the product lifecycle and how it can be categorized with governance decision making and feedback processes. It's interesting to see how product management and governance can be related in the future!"
-socialImage: "./media/notebook.jpg"
----
+
 ##### This article is in response to a Smart Contract Research Forum podcast on Computer-Aided Governance. Link is here: https://www.smartcontractresearch.org/t/scrf-interviews-computer-aided-governance-michael-zargham-and-jeff-emmett-ep-18/2587
 
 The podcast episode and article are thought-provoking and insightful to what BlockScience does. Though I’ve never used cadCAD, I see it used all the time in the Token Engineering Commons. I now feel I have a better understanding of what it’s used for and why we would need computer assistance in governance. I also appreciated UmarKhanEth’s response and his example using Ray Dalio’s feedback-enhanced investment strategy. It’s interesting to see how various industries came across the power of closed-loop systems and what innovations sprang from them. I particularly want to address current issues in product management and how computer-aided governance can be used to strengthen this process.
