@@ -14,14 +14,14 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: #dcdcdc;
+  color: #ffffff;
   font-style: italic;
 }
 
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-subst {
-  color: #dcdcdc;
+  color: #ffffff;
   font-weight: bold;
 }
 
@@ -51,7 +51,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-type,
 .hljs-class .hljs-title {
-  color: #dcdcdc;
+  color: #ffffff;
   font-weight: bold;
 }
 
@@ -78,7 +78,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 }
 
 .hljs-meta {
-  color: #dcdcdc;
+  color: #ffffff;
   font-weight: bold;
 }
 

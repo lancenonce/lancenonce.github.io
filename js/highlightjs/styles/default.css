@@ -55,11 +55,11 @@ a {
 }
 
 .post-title, .page-title {
-    color: #dcdcdc; /* Ensure titles are readable */
+    color: #ffffff; /* Ensure titles are readable */
 }
 
 .post-content, .page-content {
-    color: #dcdcdc; /* Light gray for content text */
+    color: #ffffff; /* Light gray for content text */
 }
 
 /* Syntax highlighting styles */
@@ -68,11 +68,11 @@ a {
     overflow-x: auto;
     padding: 0.5em;
     background: #2e3b4e; /* Darker background for code blocks */
-    color: #dcdcdc; /* Light gray text for code */
+    color: #ffffff; /* Light gray text for code */
 }
 
 .hljs-comment {
-    color: #dcdcdc;
+    color: #ffffff;
 }
 
 .hljs-keyword,
