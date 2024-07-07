@@ -3,7 +3,7 @@
 
 *This post was written for the Devconnect Scholars program. I want to extend my most sincere gratitude for being selected and to explore the ethics of on-chain AI.*
 
-![alt text](media/ethicsphoto.png)
+![alt text](/media/ethicsphoto.png)
 
 **Introduction: Assumptions and Possibilities**
 
