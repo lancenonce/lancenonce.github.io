@@ -1,5 +1,5 @@
 # voice of reason
-
+![](/media/sound-cube.png)
 I think it would be best for the collective to have a single society where everyone is in the interest of all. However, historically, it's been challenging at best to ask humans amongst each other to (particularly Americans) to care about others. This is due to the incentives that are propped up in American society.
 
 You see, the American is encouraged to be a consumer. A product-buying machine whose sole purpose is to make a few producers rich. The richer they get, the more powerful they become, the more ability they have to alter opinions and thus the choices of the masses. For example, Coca Cola's ads feature some of the happiest looking human beings, though, the pop itself kills you slowly. However, due to the happy marketing, the inexperienced mind's (children's) opinion fixates on that product producing that certain desirable emotion. They grow up thinking it is making them happy, alwhile the beverage is making them obese and killing them slowly.
@@ -20,4 +20,4 @@ No malls, no clubs, no big grocery stores, no big ads, low imports, maximum prod
 
 So let's cut to the chase. We need to reprogram ourselves. We need leaders who won't pander us for votes. Leaders who will be honest and transparent with us. Let's learn how to be humans again. Let's start working for each other again. Let's start building something that really works and not something that feels good to the ego of the kings and oligarchs.
 
-- LAND
+LAND
