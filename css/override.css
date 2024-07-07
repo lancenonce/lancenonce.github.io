@@ -45,7 +45,7 @@ hr {
 }
 
 body {
-  background-color: #191970; 
+  background-color: #7777eb; 
   color: #ffffff; 
 }
 
@@ -58,5 +58,5 @@ a {
 }
 
 .post-content, .page-content {
-  color: #dcdcdc; 
+  color: #ffffff; 
 }
