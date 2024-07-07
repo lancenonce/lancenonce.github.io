@@ -8,7 +8,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  color: #333;
+  color: #dcdcdc;
   background: #f8f8f8;
 }
 
@@ -51,14 +51,14 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-type,
 .hljs-class .hljs-title {
-  color: #458;
+  color: #dcdcdc;
   font-weight: bold;
 }
 
 .hljs-tag,
 .hljs-name,
 .hljs-attribute {
-  color: #000080;
+  color: #dcdcdc;
   font-weight: normal;
 }
 
