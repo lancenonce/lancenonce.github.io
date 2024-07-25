@@ -1,6 +1,6 @@
 ![1and0](media/photo.png)
 ## You're in the mind of a builder ⚒️⚡️
-This is Lance Ato Nathaniel Davis' page. It's not professional, nor is it unprofessional. It's not work, nor is it play. It just is.
+This is my page. It's not professional, nor is it unprofessional. It's not work, nor is it play. It just is.
 
 If you like something, contact me. If you see an error, correct me (bring proof).
 
