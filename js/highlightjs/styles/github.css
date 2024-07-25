@@ -8,8 +8,8 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  color: #252525;
-  background: #f8f8f8;
+  color: #000000;
+  background: #a9c6ff;
 }
 
 .hljs-comment,
