@@ -10,7 +10,7 @@ This is what's possible with math, in particular **polynomials over finite field
 In this article, we'll explore an example of polynomials being used in cryptography (important to show the youngins asking "why is this math stuff important?") and explain how to hide a polynomial evaluation.
 
 ### Polynomial Extension Fields
-In cryptography, polynomials are used frequently. An example is the finite extension field, where a field (typically a prime field) is extended to include polynomials whose coefficients are in the field and are reduced by a certain irreducible polynomial. An example I like from the Moon Math Manual is the field $\mathbb{F}_{3^2}$. We use the irreducible polynomial $P(t) = t2 + 1$ This field contains all polynomials of degree less than 2 with coefficients in $\mathbb{F}_3$. The elements included in this field are:
+In cryptography, polynomials are used frequently. An example is the finite extension field, where a field (typically a prime field) is extended to include polynomials whose coefficients are in the field and are reduced by a certain irreducible polynomial. An example I like from the Moon Math Manual is the field $$\mathbb{F}_{3^2}$$. We use the irreducible polynomial $P(t) = t2 + 1$ This field contains all polynomials of degree less than 2 with coefficients in $\mathbb{F}_3$. The elements included in this field are:
 $$
 \mathbb{F}_{3^2} = [{0,1,2,t,t+1,t+2,2t,2t+1,2t+2}]
 $$
