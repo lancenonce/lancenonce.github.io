@@ -1,7 +1,58 @@
 ![1and0](media/photo.png)
-## You're in the mind of a builder ⚒️⚡️🔥🌊💨💫
-I have a deep inner sense of justice. I like to think and write about technologies and mental structures that can be used to free people. To free people from the clutches of *corrupt* governments, economic structures, religions, and other mind-altering systems. The non-corrupt ones are okay :)
+## You're in the mind of a builder ⚒️⚡️
+This is Lance Ato Nathaniel Davis' page. It's not professional, nor is it unprofessional. It's not work, nor is it play. It just is.
 
-Before taking anything personally, I urge you to talk to me. Click on my social media profiles and send me a message. I will respond over time. 
+If you like something, contact me. If you see an error, correct me (bring proof).
 
-A good place to start is my article "Why web3?"
+Now, read the blog and enjoy my favorite poem by Rumi:
+
+> Our death is our wedding with eternity.
+>
+>What is the secret? “God is One.”
+>
+>The sunlight splits when entering the windows of the house.
+>
+>This multiplicity exists in the cluster of grapes;
+>
+>It is not in the juice made from the grapes.
+>
+>For he who is living in the Light of God,
+>
+>The death of the carnal soul is a blessing.
+>
+>Regarding him, say neither bad nor good,
+>
+>For he is gone beyond the good and the bad.
+>
+>Fix your eyes on God and do not talk about what is invisible,
+>
+>So that he may place another look in your eyes.
+>
+>It is in the vision of the physical eyes
+>
+>That no invisible or secret thing exists.
+>
+>But when the eye is turned toward the Light of God
+>
+>What thing could remain hidden under such a Light?
+>
+>Although all lights emanate from the Divine Light
+>
+>Don’t call all these lights “the Light of God”;
+>
+>It is the eternal light which is the Light of God,
+>
+>The ephemeral light is an attribute of the body and the flesh.
+>
+>…Oh God who gives the grace of vision!
+>
+>The bird of vision is flying towards You with the wings of desire.
+>
+>
+>
+>
+>~
+>
+>
+>
+> Mystic Odes 833
