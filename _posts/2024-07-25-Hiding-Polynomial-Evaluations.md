@@ -18,6 +18,7 @@ $$
 This is quite the group. It maintains all the properties of a group, so we can add and multiply these elements together to yield other elements of the group. 
 
 The addition table looks like:
+
 | +   | 0   | 1   | 2   | t   | t+1 | t+2 | 2t  | 2t+1 | 2t+2 |
 |-----|-----|-----|-----|-----|-----|-----|-----|------|------|
 | 0   | 0   | 1   | 2   | t   | t+1 | t+2 | 2t  | 2t+1 | 2t+2 |
