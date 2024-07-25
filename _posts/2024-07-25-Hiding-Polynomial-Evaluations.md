@@ -16,7 +16,7 @@ $$
 \mathbb{F}_{3^2} = [{0,1,2,t,t+1,t+2,2t,2t+1,2t+2}]
 $$
 
-This is quite the group. It maintains all the properties of a group, so we can add and multiply these elements together to yield other elements of the group. 
+This is a nice group. It maintains all the properties of a group, so we can add and multiply these elements together to yield other elements of the group. 
 
 The addition table looks like:
 
@@ -202,5 +202,7 @@ Contributions are welcome! You'll see a few todos. If you're reading this close 
 
 ### Reflection
 I hope I did a good job making the unknown known to you. I had lots of fun writing this. Expect more deep crypto content like this in the future. 
+
+I would like to give a special thanks to Dan Boneh for the extensive resources on pairings, including this [presentation](https://www.youtube.com/watch?v=8WDOpzxpnTE) that helped me learn about pairings on a deeper level. 
 
 As always, thanks for reading!
