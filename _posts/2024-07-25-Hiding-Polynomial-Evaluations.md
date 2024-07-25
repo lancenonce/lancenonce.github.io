@@ -124,7 +124,7 @@ This is critical in cryptography where people hold secret values they use for se
 ### Hiding Polynomial Evaluations
 When hiding an evaluation, the first thing we need to do is define our bilinear pairing. We find a sufficiently large prime number $p$ and let $G_1$ and $G_2$ be cyclic groups of order $p$. We then let $G_T$ be the group of an extension field, such as $\mathbb{F}_{p^k}$, where $k$ is the maximum degree of the polynomials in the extension field (remember the example with $\mathbb{F}_{3^2}$ above).
 
-Now, let's select a polynomial (in the crypto world, this polynomial will represent some data we want to hide such as a stack trace, regular expression, an L|R|O circuit in R1CS, etc.). Let's take the generic $P(x)$:
+Now, let's select a polynomial (in the crypto world, this polynomial will represent some data we want to hide such as a stack trace, regular expression, an L/R/O circuit in R1CS, etc.). Let's take the generic $P(x)$:
 
 $$
 P(x) = a_0 + a_1x + a_2x^2 + \dots + a_dx^d
