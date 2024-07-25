@@ -167,7 +167,7 @@ We start with a prompt asking the prover for their polynomial:
 ```shell
     let poly = input_polynomial();
 ```
-where `input_polynomial()` is a function that prompts for a shell input and returns a `DensePolynomial<ark_bn254::Fr>` polynomial of the coefficients given by the user:
+where `input_polynomial()` is a function that prompts for a shell input and returns a `DensePolynomial<ark_bn254::Fr>` polynomial of the coefficients given by the user. For example:
 
 ```shell
 Enter the polynomial coefficients (u64), separated by spaces:
