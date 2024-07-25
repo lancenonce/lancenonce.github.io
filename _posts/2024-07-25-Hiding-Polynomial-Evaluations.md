@@ -11,6 +11,7 @@ In this article, we'll explore an example of polynomials being used in cryptogra
 
 ### Polynomial Extension Fields
 In cryptography, polynomials are used frequently. An example is the finite extension field, where a field (typically a prime field) is extended to include polynomials whose coefficients are in the field and are reduced by a certain irreducible polynomial. An example I like from the Moon Math Manual is the field $$\mathbb{F}_{3^2}$$. We use the irreducible polynomial $$P(t) = t2 + 1$$ This field contains all polynomials of degree less than 2 with coefficients in $$\mathbb{F}_3$$. The elements included in this field are:
+
 $$
 \mathbb{F}_{3^2} = [{0,1,2,t,t+1,t+2,2t,2t+1,2t+2}]
 $$
@@ -97,7 +98,7 @@ It's neat!
 ### Bilinear Pairings
 So why use these extension fields? They have lots of uses, but arguably my favorite one is the usage in bilinear pairings.
 
-I like to think of bilinear pairings as a way to make an equation $$A \times B \rightarrow C$$ where each element $$A, B,$ and $$C$$ are in related [groups](https://en.wikipedia.org/wiki/Group_(mathematics)) (A and B can belong to the same group). The $$\times$$ here is some arbitrary combination (most commonly exponentiation of [generators](https://en.wikipedia.org/wiki/Generating_set_of_a_group)), not necessarily multiplication. Let's clarify:
+I like to think of bilinear pairings as a way to make an equation $$A \times B \rightarrow C$$ where each element $$A, B,$$ and $$C$$ are in related [groups](https://en.wikipedia.org/wiki/Group_(mathematics)) (A and B can belong to the same group). The $$\times$$ here is some arbitrary combination (most commonly exponentiation of [generators](https://en.wikipedia.org/wiki/Generating_set_of_a_group)), not necessarily multiplication. Let's clarify:
 
 A bilinear pairing is a map:
 $$e: G_1 × G_2 → G_T $$ where $$G_1$$, $$G_2$$, and $$G_T$$ are groups of the same prime order $$p$$ (Prime order means that the size of the group is a prime number; this helps with making [trapdoor](https://eprint.iacr.org/2011/131.pdf) values). $$e$$ must satisfy these properties of Bilinearity, Non-degeneracy, and Computability.
@@ -106,6 +107,9 @@ $$e: G_1 × G_2 → G_T $$ where $$G_1$$, $$G_2$$, and $$G_T$$ are groups of the
 > ∀ $$u$$ ∈ $$G_1$$, $$v$$ ∈ $$G_2$$, {$${a, b}$$} ∈ $$\mathbb{Z}_p$$:
 >
 > $$e(u^a,v^b) = e(u, v)^{ab}$$
+$$
+∀ u ∈ G_1, v ∈ G_2, {a, b} ∈ \mathbb{Z}_p: e(u^a, v^b) = e(u,v)^{ab}
+$$
 
 **Non-degeneracy**: 
 > ∃ $$u$$ ∈ $$G_1$$ & $$v$$ ∈ $$G_2$$ ∣ $$e(u, v)$$ ≠ 1
